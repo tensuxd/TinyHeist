@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "TinyHeistEditor Editor Win64 Development (TinyHeist)",
+            "compilerPath": "D:\\visuals\\vs22\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "E:\\Project\\TinyHeist\\.vscode\\compileCommands_TinyHeist.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "D:\\visuals\\vs22\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "E:\\Project\\TinyHeist\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}
